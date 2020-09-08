@@ -1,4 +1,4 @@
-const file='https://blog.zcmimi.top/pure_data.json', // json数据文件位置
+const file='https://blog.rockson.top/pure_data.json', // json数据文件位置
     preview_len=50; // 预览字数
 const fetch=require('node-fetch');
 var data,lastget=0;
